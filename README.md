@@ -56,4 +56,4 @@ The metadata was manually transcribed and structured in November 2026 from pages
 The structured metadata schema, controlled-vocabulary annotations in `data.csv`, and validation code in `check_dataset.ipynb` are shared under a **CC BY 4.0** licence. The underlying archival descriptions remain the intellectual property of the Historical Archive of the Bank of Greece.
 
 **Suggested citation:**
-Tsirikos, A. (2026). *Ioannis (Yangos) Pesmazoglou Anti-Dictatorship Discourse Metadata (A6S8Y3)* [Dataset]. Derived from Bank of Greece Historical Archive, Archive 6, Series 8, Subseries 3.
+Ioannis (Yangos) Pesmazoglou Anti-Dictatorship Discourse Metadata (A6S8Y3)* [Dataset]. Derived from Bank of Greece Historical Archive, Archive 6, Series 8, Subseries 3.
